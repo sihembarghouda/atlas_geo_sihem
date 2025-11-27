@@ -177,7 +177,20 @@ Ce projet est réalisé dans un cadre éducatif.
 
 ## 📸 Captures d'écran
 
-*(Ajoutez vos captures d'écran ici)*
+### Écran d'accueil
+![Écran d'accueil](assets/images/screen_shots/Capture%20d'écran%202025-11-27%20103547.png)
+
+### Liste des pays
+![Liste des pays](assets/images/screen_shots/Capture%20d'écran%202025-11-27%20103606.png)
+
+### Détails d'un pays
+![Détails pays](assets/images/screen_shots/Capture%20d'écran%202025-11-27%20103634.png)
+
+### Page À propos
+![Page À propos](assets/images/screen_shots/Capture%20d'écran%202025-11-27%20103702.png)
+
+### Menu Drawer
+![Menu Drawer](assets/images/screen_shots/Capture%20d'écran%202025-11-27%20103940.png)
 
 ## 🙏 Remerciements
 
@@ -188,8 +201,5 @@ Ce projet est réalisé dans un cadre éducatif.
 ---
 
 **Date de création** : Novembre 2025  
-<<<<<<< HEAD
 **Version** : 1.0.0
-=======
-**Version** : 1.0.0
->>>>>>> ffb3a1cec3d8dce88db5b4f59807346546cd8fe4
+
