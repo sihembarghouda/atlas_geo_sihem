@@ -188,4 +188,8 @@ Ce projet est réalisé dans un cadre éducatif.
 ---
 
 **Date de création** : Novembre 2025  
+<<<<<<< HEAD
 **Version** : 1.0.0
+=======
+**Version** : 1.0.0
+>>>>>>> ffb3a1cec3d8dce88db5b4f59807346546cd8fe4
